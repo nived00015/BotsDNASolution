@@ -1,0 +1,24 @@
+Dear user,
+<br><br>
+
+Server is created in botsdna website with following details:<br>
+<table border="1">
+<tbody>
+<tr>
+<td>IP Address</td>
+<td>[ip_address]</td>
+</tr>
+<tr>
+<td>UserName</td>
+<td>[username]</td>
+</tr>
+<tr>
+<td>Password</td>
+<td>[password]</td>
+</tr>
+</tbody>
+</table>
+
+<br><br>
+Thanks & Regards,<br>
+Server Creator Bot
